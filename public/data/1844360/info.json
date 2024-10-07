@@ -1,0 +1,11 @@
+{
+    "nombre": "Deiby Santiago Muñoz Patiño",
+    "edad": 22,
+    "carrera": "Ingeniería en sistemas",
+    "semestre": 6,
+    "gustos": ["Bailar, Manejar, Papa Rellena, Frio"],
+    "noGustos": ["El calor, La lluvia"],
+    "foto": "https://lh3.googleusercontent.com/a/ACg8ocI5HyW57rJGXB5hFf0m5bnk2dHB-GEiICO1crlMm8fVKqz0BA=s288-c-no",
+    "red-social": "https://github.com/DeibyMP"
+}
+  
