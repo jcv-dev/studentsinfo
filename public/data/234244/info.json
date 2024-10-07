@@ -6,5 +6,5 @@
     "gustos": ["Futbol", "Dormir", "UFC", "Viajar"],
     "noGustos": ["Levantarme temprano", "Comida picante"],
     "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lionel_Messi_WC2022.jpg/464px-Lionel_Messi_WC2022.jpg",
-    "red_social": "https://github.com/santiago153"
+    "red-social": "https://github.com/santiago153"
 }
